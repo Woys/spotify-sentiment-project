@@ -3,7 +3,7 @@
 ## Description
 Proof of concept from another project of mine https://github.com/Woys/Spotify-Podcasts-Airflow-Batch
 
-C++ accelerated Natural Language Processing (NLP) data pipeline designed to extract market intelligence from massive datasets of daily updated Spotify podcasts. It ingests raw podcast metadata, scores sentiment using chunked VADER analysis, and maps textual content to predefined analytical topics using semantic keyword expansion (GloVe embeddings) and an ultra-fast, zero-copy custom C++ text scanner. Finally, it generates a comprehensive suite of interactive, N-weighted HTML dashboards using Plotly.
+C++/Python accelerated Natural Language Processing (NLP) data pipeline designed to extract market intelligence from massive datasets of daily updated Spotify podcasts. It ingests raw podcast metadata, scores sentiment using chunked VADER analysis, and maps textual content to predefined analytical topics using semantic keyword expansion (GloVe embeddings) and an ultra-fast, zero-copy custom C++ text scanner. Finally, it generates a comprehensive suite of interactive, N-weighted HTML dashboards using Plotly.
 
 ## How to Use It
 
