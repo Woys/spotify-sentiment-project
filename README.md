@@ -5,6 +5,10 @@ Proof of concept from another project of mine https://github.com/Woys/Spotify-Po
 
 C++/Python accelerated Natural Language Processing (NLP) data pipeline designed to extract market intelligence from massive datasets of daily updated Spotify podcasts. It ingests raw podcast metadata, scores sentiment using chunked VADER analysis, and maps textual content to predefined analytical topics using semantic keyword expansion (GloVe embeddings) and an ultra-fast, zero-copy custom C++ text scanner. Finally, it generates a comprehensive suite of interactive, N-weighted HTML dashboards using Plotly.
 
+<img width="1744" height="839" alt="newplot(1)" src="https://github.com/user-attachments/assets/2aa65624-76cb-4bf0-9ee8-5a7e3e3335cf" />
+
+<img width="1744" height="839" alt="newplot(2)" src="https://github.com/user-attachments/assets/abc2e2bb-1821-44cd-993d-d85369eecb79" />
+
 ## How to Use It
 
 Run via Docker Compose (Recommended)
